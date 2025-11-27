@@ -1,3 +1,17 @@
+# Fintech CX Analytics
+
+A project for analyzing user behavior, experience, and customer journey metrics in fintech applications.
+
+## 🚀 Features
+
+- User behavior analytics
+- Churn prediction (later)
+- Funnel analysis
+- Customer segmentation
+- Interactive dashboards
+
+## 📁 Project Structure
+
 fintech-customer-analytics-ml/
 │
 ├── data/
