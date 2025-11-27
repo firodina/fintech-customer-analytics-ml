@@ -6,3 +6,6 @@ scikit-learn
 plotly
 jupyter
 notebook
+dotenv
+google_play_scraper
+tqdm
