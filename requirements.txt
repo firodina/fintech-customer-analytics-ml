@@ -9,3 +9,13 @@ notebook
 dotenv
 google_play_scraper
 tqdm
+scikit-learn
+nltk
+spacy>=3.0
+gensim
+transformers     # optional: if you will use distilbert model
+torch            # needed by transformers
+tqdm
+joblib
+textblob
+wordcloud
